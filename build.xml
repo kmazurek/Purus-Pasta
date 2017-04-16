@@ -153,7 +153,7 @@
     <junit showoutput="true" printsummary="true">
       <classpath>
         <pathelement location="lib/junit.jar" />
-        <pathelement location="lib/hamcrest/core.jar" />
+        <pathelement location="lib/hamcrest/core-1.3.jar" />
         <pathelement location="build/hafen.jar" />
       </classpath>
       <formatter usefile="false" type="plain" />
