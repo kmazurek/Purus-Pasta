@@ -8,3 +8,5 @@ https://github.com/puruscor/Pasta-Launcher/releases/latest
 Includes all features that Amber client has + some additional ones. You can check them out below.
 
 [Changelog](https://github.com/puruscor/Purus-Pasta/blob/master/CHANGELOG.md)
+
+[This is a fork of the original repository - Kris]
